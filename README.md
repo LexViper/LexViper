@@ -36,7 +36,7 @@
 - **[Image Generation](https://github.com/LexViper/Image_Generation)**  
   A project where I explored generative AI to create stunning visuals using Python and deep learning frameworks like PyTorch.  
 - **[Video Anomaly Detection](https://github.com/LexViper/video-anomaly-detection)**  
-  Built a system to detect unusual patterns in video streams using TensorFlow and Pandas—think security cams with a brain!  
+  A project where I harnessed APIs and Gradio to generate awesome images interactively using Python and Requests.
 - **[Deepfake Analysis](https://github.com/LexViper/deepfake-analysis)**  
   Dove into the wild world of deepfakes, analyzing and detecting them with ML techniques and scikit-learn.  
 
