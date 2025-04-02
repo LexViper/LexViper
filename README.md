@@ -33,7 +33,7 @@
 ---
 
 ### 🛠️ Featured Projects  
-- **[Image Generation](https://github.com/LexViper/image-generation)**  
+- **[Image Generation](https://github.com/LexViper/Image_Generation)**  
   A project where I explored generative AI to create stunning visuals using Python and deep learning frameworks like PyTorch.  
 - **[Video Anomaly Detection](https://github.com/LexViper/video-anomaly-detection)**  
   Built a system to detect unusual patterns in video streams using TensorFlow and Pandas—think security cams with a brain!  
