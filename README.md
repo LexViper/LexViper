@@ -32,7 +32,7 @@
 - **Story Weaver Chatbot**  
   A Flask app that crafts choose-your-own-adventure stories with DistilGPT-2.  
   *Impact*: Deployed a demo that got 50+ users hooked in a week!  
-  [GitHub](https://github.com/LexViper/story-weaver)  
+  [GitHub](https://github.com/LexViper/StoryWeaver-Chatbot)  
 
 - **Video Anomaly Detection**  
   Spots odd patterns in videos using Random Forest and OpenCV—smart cams, anyone?  
