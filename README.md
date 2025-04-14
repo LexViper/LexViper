@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LexViper/Full-Stack-Development/main/banner.jpeg" alt="Sci-Fi Galaxy Banner" />
-</p>
+
 
 # Hey, I’m Abhay! 👋  
 *Coding AI dreams and chasing algorithms*  
