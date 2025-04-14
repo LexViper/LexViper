@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Sci-Fi+AI+Banner" alt="Sci-Fi Banner" />
+  <img src="https://raw.githubusercontent.com/LexViper/Full-Stack-Development/main/banner.jpeg" alt="Sci-Fi Galaxy Banner" />
 </p>
 
 # Hey, I’m Abhay! 👋  
