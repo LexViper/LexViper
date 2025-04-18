@@ -25,7 +25,12 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00BFFF?style=for-the-badge&logo=opencv&logoColor=white) 
+![NLP](https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=swagger&logoColor=white)
 ---
 
 ### 🚀 Top Projects  
